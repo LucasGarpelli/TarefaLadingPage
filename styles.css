@@ -37,6 +37,12 @@
     margin-right: 30px
 
 }
+.button1:hover {
+   color: #111B47 ;
+   background-color: #fff;
+
+}
+
 .button2 {
     border solid #091133; 
     width:190px;
@@ -44,6 +50,11 @@
     background-color: #fff;
     color: #091133;
 }
+.button2:hover {
+    color: #fff ;
+    background-color:#091133 ;
+ 
+ }
 img {
     width: 400px;
     height: 400px;
